@@ -1,2 +1,2 @@
 # javascript-tts
-A text to speech system of javascript
+The page is not responsive so change the setting with css
